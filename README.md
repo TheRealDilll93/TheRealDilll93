@@ -1,7 +1,7 @@
 # David Billiot
 
-Founder of [RESILIENCE Agentic Solutions](https://we-are-resilience.com) — a Miami senior engineering practice for custom software, websites and apps, autonomous AI agents, and on-chain systems.
+Founder of [RESILIENCE Agentic Solutions](https://we-are-resilience.com) — a Miami senior engineering practice.
 
-Public face of the practice: [TheRealDilll93/we-are-resilience](https://github.com/TheRealDilll93/we-are-resilience)
+Official public face: [github.com/WeAreResilience](https://github.com/WeAreResilience)
 
 Site: [we-are-resilience.com](https://we-are-resilience.com) · Email: info@we-are-resilience.com
